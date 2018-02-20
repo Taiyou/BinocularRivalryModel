@@ -1,1 +1,3 @@
-# BinocularRivalryModel
+# PseudoBinocularRivalryProject
+## Intro
+## Preparation
