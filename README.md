@@ -14,7 +14,7 @@ We referred to the binocular rivalry model by [Li et al., 2018](http://www.pnas.
 ## Future suggestion
 
 ## Commitment by
-Mr. Hamada: Comments on stimuli and Revisions of Python codes. Random transisions.
-Dr. Miyahara: Comments on stimuli.
-Dr. Niikawa: Comments on stimuli.
-Dr. Nishida: Comments on stimuli and building main framework of Python codes.
+- Mr. Hamada: Comments on stimuli and Revisions of Python codes. Random transisions.
+- Dr. Miyahara: Comments on stimuli.
+- Dr. Niikawa: Comments on stimuli.
+- Dr. Nishida: Comments on stimuli and building main framework of Python codes.
