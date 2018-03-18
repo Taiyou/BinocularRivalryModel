@@ -1,5 +1,5 @@
-# PseudoBinocularRivalryProject
-This is our repository to generate psuedo-binocular rivalry stimuli.
+# PseudoBinocularRivalryProject (not completed yet)
+This is our repository of our pseudoBinocularRivalry project.
 
 ## Introduction
 
@@ -7,9 +7,14 @@ We referred to the binocular rivalry model by [Li et al., 2018](http://www.pnas.
 
 
 ## Prerequisite
--
--
--
+- MATLAB codes from [Li et al., 2018](http://www.pnas.org/content/114/30/E6192).
+- 
+
+## Contents
+- Generator of Peudo Binocular Rivalry
+- results from twenty subjects.
+- analysis: regression (Accuracy and variables)
+- analysis: confidence and accuracy
 
 ## Future suggestion
 
@@ -18,3 +23,5 @@ We referred to the binocular rivalry model by [Li et al., 2018](http://www.pnas.
 - Dr. Miyahara: Comments on stimuli.
 - Dr. Niikawa: Comments on stimuli.
 - Dr. Nishida: Comments on stimuli and building main framework of Python codes.
+
+#
