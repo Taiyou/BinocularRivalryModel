@@ -12,17 +12,11 @@ We referred to the binocular rivalry model by [Li et al., 2018](http://www.pnas.
 
 ## Contents
 - Generator of Peudo Binocular Rivalry
-- results from 20 subjects.
-- analysis: regression (Accuracy and variables)
-- analysis: confidence and accuracy
 
 ## Future suggestion
 
 ## Committed by
-- Mr. Hamada: Comments on stimuli and Revisions of Python codes. Random transisions.
-- Dr. Nishida: Comments on stimuli and building main framework of Python codes.
-- Dr. Miyahara: Comments on stimuli.
-- Dr. Niikawa: Comments on stimuli.
+- Dr. Takuya Niikawa, Dr. Katsunori Miyahara, Dr. Hiro Taiyo Hamada, Dr. Satoshi Nishida.
 
 # Support
-Our project was supported by 
+Our project was supported by KAKENHI.
