@@ -7,14 +7,13 @@
 
 We referred to the binocular rivalry model by [Li et al., PNAS, 2018](http://www.pnas.org/content/114/30/E6192). We leveraged an attention model of binocular rivalry stimuli to emulate dynamics of binocular rivalry transistions. Our report sheds light on phenomenological difference between real and peusdo binocular rivalry stimuli.
 
-
 ## Prerequisite
 - MATLAB codes available from [Li et al., 2018](http://www.pnas.org/content/114/30/E6192).
 
 ## Contents and Files
 - A program for generatoring Peudo Binocular Rivalry Stimuli:
 ```bash
-         /8stateRandomTransition_forExp201802/ImageSynthesisFromAttentionModel2017(Feb16thNishida).ipynb
+/8stateRandomTransition_forExp201802/ImageSynthesisFromAttentionModel2017(Feb16thNishida).ipynb
 ```
 - Time-series of binocular rivalry from the monocular-summation neurons in the attention model [Li et al., PNAS, 2018](http://www.pnas.org/content/114/30/E6192)
 ```bash
@@ -46,6 +45,9 @@ RivalryExp/PseudoRivalryPilot.py
 
 # Acknowledgments
 This work was partly supported by the grants from the Japan Society for the Promotion of Science (JSPS; KAKENHI 18K00032) to TN, KM, and SN, and from JSPS (KAKENHI 18K18141) to SN.
+
+# Publication
+- not yet
 
 # References
 - Li, HH., Rankin, J., Rinzel, J., Carrasco, M., and Heeger, DJ. (2017) Attention model of binocular rivalry. Proceedings of the National Academy of Sciences. 114(30), pp.6192-6201. doi: [https://doi.org/10.1073/pnas.1620475114](https://doi.org/10.1073/pnas.1620475114)
