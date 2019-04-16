@@ -11,13 +11,36 @@ We referred to the binocular rivalry model by [Li et al., PNAS, 2018](http://www
 ## Prerequisite
 - MATLAB codes available from [Li et al., 2018](http://www.pnas.org/content/114/30/E6192).
 
-## Contents
-- Generator of Peudo Binocular Rivalry Stimuli for the main experiment:
+## Contents and Files
+- A program for generatoring Peudo Binocular Rivalry Stimuli:
 ```bash
-         /8stateRandomTransition_forExp201802/
+         /8stateRandomTransition_forExp201802/ImageSynthesisFromAttentionModel2017(Feb16thNishida).ipynb
 ```
-- Probrams and movies for the main experiment:
-         /RivalryExp/
+- Time-series of binocular rivalry from the monocular-summation neurons in the attention model [Li et al., PNAS, 2018](http://www.pnas.org/content/114/30/E6192)
+```bash
+/8stateRandomTransition_forExp201802/summation_120sec.txt
+```
+- 5 movies
+```bash
+/8stateRandomTransition_forExp201802/8state_trand_noise_1.mp4
+/8stateRandomTransition_forExp201802/8state_trand_noise_2.mp4
+/8stateRandomTransition_forExp201802/8state_trand_noise_3.mp4
+/8stateRandomTransition_forExp201802/8state_trand_noise_4.mp4
+/8stateRandomTransition_forExp201802/8state_trand_noise_5.mp4
+```
+- A program for the main experiment
+```bash
+RivalryExp/PseudoRivalryPilot.py
+```
+- Movies for the main experiment
+```bash
+/RivalryExp/src/8state_trand_noise_1.mp4
+/RivalryExp/src/8state_trand_noise_2.mp4
+/RivalryExp/src/8state_trand_noise_3.mp4
+/RivalryExp/src/8state_trand_noise_4.mp4
+/RivalryExp/src/8state_trand_noise_5.mp4
+```
+
 
 ## Committed by
 - Dr. Takuya Niikawa, Dr. Katsunori Miyahara, Dr. Hiro Taiyo Hamada, Dr. Satoshi Nishida.
