@@ -12,8 +12,10 @@ We referred to the binocular rivalry model by [Li et al., PNAS, 2018](http://www
 - MATLAB codes available from [Li et al., 2018](http://www.pnas.org/content/114/30/E6192).
 
 ## Contents
-- Generator of Peudo Binocular Rivalry Stimuli for the main experiment: /8stateRandomTransition_forExp201802/
-- Probrams and movies for the main experiment: 
+- Generator of Peudo Binocular Rivalry Stimuli for the main experiment:
+         /8stateRandomTransition_forExp201802/
+- Probrams and movies for the main experiment:
+         /RivalryExp/
 
 ## Committed by
 - Dr. Takuya Niikawa, Dr. Katsunori Miyahara, Dr. Hiro Taiyo Hamada, Dr. Satoshi Nishida.
