@@ -13,7 +13,9 @@ We referred to the binocular rivalry model by [Li et al., PNAS, 2018](http://www
 
 ## Contents
 - Generator of Peudo Binocular Rivalry Stimuli for the main experiment:
+```bash
          /8stateRandomTransition_forExp201802/
+```
 - Probrams and movies for the main experiment:
          /RivalryExp/
 
@@ -25,3 +27,4 @@ This work was partly supported by the grants from the Japan Society for the Prom
 
 # References
 - Li, HH., Rankin, J., Rinzel, J., Carrasco, M., and Heeger, DJ. (2017) Attention model of binocular rivalry. Proceedings of the National Academy of Sciences. 114(30), pp.6192-6201. doi: [https://doi.org/10.1073/pnas.1620475114](https://doi.org/10.1073/pnas.1620475114)
+nmar
