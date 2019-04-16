@@ -20,7 +20,7 @@ We referred to the binocular rivalry model by [Li et al., PNAS, 2018](http://www
 ```bash
 /8stateRandomTransition_forExp201802/summation_120sec.txt
 ```
-- 5 movies
+- 5 sample movies generated from ImageSynthesisFromAttentionModel2017(Feb16thNishida).ipynb
 ```bash
 /8stateRandomTransition_forExp201802/8state_trand_noise_1.mp4
 /8stateRandomTransition_forExp201802/8state_trand_noise_2.mp4
@@ -40,7 +40,6 @@ RivalryExp/PseudoRivalryPilot.py
 /RivalryExp/src/8state_trand_noise_4.mp4
 /RivalryExp/src/8state_trand_noise_5.mp4
 ```
-
 
 ## Committed by
 - Dr. Takuya Niikawa, Dr. Katsunori Miyahara, Dr. Hiro Taiyo Hamada, Dr. Satoshi Nishida.
