@@ -1,7 +1,7 @@
 # Pseudo-Binocular Rivalry Project (not completed yet)
 This is our repository of our pseudoBinocularRivalry project. The binocular rivalry is one of the most often used phenomenon in cognitive neuroscience to observe conscious perception. Binocular rivalry is the phenomenon where visual perception of images alternates subjects are asked to see one visual image to the right eye and another image to the left eye. In our project, we sought to find its phenomenological characteristics by accessing to introspection of subjects with a phenomenological interview method. We contrasted introspection of the subjects during binocular rivalry stimuli with that with psuedo stimuli.
 
-![FBR](FBR.gif)
+![FBR](FBR.gif#style=centerme)
 
 ## Introduction
 
