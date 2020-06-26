@@ -47,7 +47,7 @@ RivalryExp/PseudoRivalryPilot.py
 This work was partly supported by the grants from the Japan Society for the Promotion of Science (JSPS; KAKENHI 18K00032) to TN, KM, HTH, SN, and from JSPS (KAKENHI 18K18141) to SN.
 
 # Publication
-- (submitted) Niikawa T.*, Miyahara, K., Hamada, T.H., Nishida, S.  Exploring the subjective experience of binocular rivalry.
+- In press, Niikawa T.*, Miyahara, K., Hamada, T.H., and Nishida, S. (2020). A new experimental phenomenological method to explore the subjective features of psychological phenomena: its application to binocular rivalry. Neuroscience of Consciousness.
 
 # References
 - Li, HH., Rankin, J., Rinzel, J., Carrasco, M., and Heeger, DJ. (2017) Attention model of binocular rivalry. Proceedings of the National Academy of Sciences. 114(30), pp.6192-6201. doi: [https://doi.org/10.1073/pnas.1620475114](https://doi.org/10.1073/pnas.1620475114)
